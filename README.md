@@ -39,5 +39,6 @@ Variable names are added to the data frames.
 
 # Result
 The resulting clean data set is stored in tidy.txt: 
+
 The data set has one columm for each variable (wide form), no duplicate columns, 
 one row for each observation, and headings appropriately describing the variables.
